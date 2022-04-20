@@ -1,0 +1,19 @@
+{
+  "name": "tester",
+  "version": "0.0.1",
+  "description": "this is a tester",
+  "main": "index.js",
+  "authors": {
+    "name": "Sydney",
+    "email": "sydbui@berkeley.edu"
+  },
+  "repository": "https://github.com/sydbui/testDoc.git/tester",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
